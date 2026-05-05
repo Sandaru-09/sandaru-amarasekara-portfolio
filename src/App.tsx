@@ -4,7 +4,7 @@ function App() {
   return (
     <main className="page">
       <section className="content">
-        <h1>Sandaru Amarasekara portfolio</h1>
+        <h1>Sandaru Amarasekara portfolio version 1.0</h1>
       </section>
     </main>
   )
